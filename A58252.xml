@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered against the passing of a bill, intituled, A bill for regulating and encouraging the art of weaving</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58252</idno>
+            <idno type="STC">Wing R529B</idno>
+            <idno type="STC">ESTC R222077</idno>
+            <idno type="EEBO-CITATION">99833307</idno>
+            <idno type="PROQUEST">99833307</idno>
+            <idno type="VID">37783</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58252)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37783)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2196:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered against the passing of a bill, intituled, A bill for regulating and encouraging the art of weaving</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Copy torn with loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Textile industry --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:37783:1" rendition="simple:additions"/>
+            <head>Reaſons humbly offered againſt the paſſing of a Bill, Intituled, <hi>A Bill for Regulating and Encouraging the Art of Weaving.</hi>
+            </head>
+            <p n="1">I. IT is humbly offered that this Sealing of Foreign Silks and Stuffs as propoſed, tends to the deſtruction of Trade, and in it ſelf is Impracticable. For, can it be imagined that the owner of every Ship wherein ſuch Silks or Stuffs are imported (if compell'd to come to <hi>London</hi> to have them Sealed before their going to the Port to which they were bound) ſhall not receive great damage thereby, in<g ref="char:EOLhyphen"/>aſmuch as Freight-mens Wages and Victuals muſt be paid for; which with demurrage will neceſſarily inhance the price of the Commodity. Beſides ſuch Sealing, (conſidering the great quantities that are commonly imported together, and belonging to ſeveral Perſons, and bound for ſeveral Ports,) muſt neceſſarily take up a vaſt length of time, and tend to the vaſt prejudice of thoſe which ſtay laſt for their Seals.</p>
+            <p>Firſt, By occaſioning the loſs of their Market, which will be ſupplied by thoſe who are firſt diſpatcht.</p>
+            <p>Secondly, By the great damage that ſuch Silk muſt neceſſarily receive by lying at the Cuſtom-houſe, and being cut open, and unfolding each Piece, without which they cannot come to the ends to Seal them, whereby ſuch Silks and Stuffs will be much creſs's, ſullied, and tumbled, which will much hinder the Sale.</p>
+            <p>And Thirdly, It may occaſion the loſing of the Fabricks, by which the Merchants can only diſcover the length and quality of his goods, and what they Coſt, and thereby judge at what price to Sell.</p>
+            <p>Fourthly, This may occaſion great damage to the Merchant by the loſs of ſeveral Pieces of Silks and Stuffs, which may amount to more than the advantage he can reaſonably ex<g ref="char:EOLhyphen"/>pect by the Cargoe Imported.</p>
+            <p>And Fifthly, The charge of maintaining of Servants, and others who muſt be imployed to attend ſuch Sealing, and the damage the Merchant ſuſtains by his Servants abſence (all ſuch time) from his imploy at home, muſt without doubt be great, conſidering the vaſt time that the unfolding and folding up every Piece of Silks and Stuffs will take up.</p>
+            <p n="2">II. Next conſider the inconveniencies that may happen by the making of every Piece forfeited that ſhall be found unſealed.</p>
+            <p>Suppoſe the Merchant ſhall cauſe every Piece to be Sealed, ſuch Seal is affixt but at one end, and may by accident be loſt off; or the Merchant afterwards ſells to the Mercer, whoſe Cuſtomer makes choice to take ſome Yards from off that end to which the Seal is affixt; or ſuppoſe a Countrey Chapman will buy half a Piece of Silk, and make choice of that end which is Sealed, either the Mercer muſt as often as the Seal is cut off the Piece, carry the remainder to be new Sealed at the Cuſtom-houſe, or at Weavers-Hall, or elſe he is liable to have the ſame ſeized by any perſon, who under pretence of Search<g ref="char:EOLhyphen"/>ing for French Ribbons and Laces, by the power in the ſeventh Paragraph of the Bill deſired, ſhall come into his Houſe, Shop, or Warehouſe, and to his great trouble and damage unfold all his Silks and Stuffs, and if he find any Pieces unſealed, ſeize and carry them away as forfeited (although but Remnants.)</p>
+            <p>This will beget multiplicity of Suits, occaſion vaſt expences, greatly diſcourage Trade, hinder the importation of great quantities of thoſe Commodities which are the product of our manufacture of Wooll, put the King to a great charge to maintain Officers, to Seal, Stamp and Mark ſuch Silks and Stuffs; and inſtead of advancing the King's Revenue (which at preſent he hath) will prejudice the ſame above 20000 li. <hi>per annu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> by hindering the importation of ſo great quantities of Silks and Stuffs as at preſent are imported, and conſequently the carrying <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great quantities of Cloth, Stuffs, Searges, Fiſh, Lead, and Tin, and oth<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Com<g ref="char:EOLhyphen"/>modities of the growth of our own Countrey now exported, and which <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ay the King a duty of Cuſtom upon their going out; the product of which <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Silks and Stuffs imported as aforeſaid, are.</p>
+            <pb n="2" facs="tcp:37783:2" rendition="simple:additions"/>
+            <p>Whilſt all foreign Princes are contriving to facilitate and encourage Trade, it is humbly hoped, nothing will be done in <hi>England</hi> to render the ſame burthenſom and difficult, if not altogether impoſſible to be carried on.</p>
+            <p n="3">III. As to the Weavers deſires, That all Silks and Stuffs made in <hi>London,</hi> or within ten M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>les, be brought to their Hall, there to be viewed, and Sealed, and to pay for each Seal: and if any Piece be ſold before Sealed, the Offerer or Putter to Sale, or the Buyer, (if a Trader in that Commodity,) ſhall forfeit for each Piece.</p>
+            <p>This, as is humbly conceived, is, under colour and pretence of doing a publick good, a deſign of the Weavers to create to themſelves a Monopoly by Act of Parliament.</p>
+            <p>The end propoſed by them, is to diſtinguiſh between foreign and our home-made Silk and Stuffs, and to encourage the Engliſh to make better Work.</p>
+            <p>Will not every man make it his buſineſs to advance his own Intereſt and Trade, by ſtriving to make his Wares as good as he can, and if poſſible to exceed the foraign-made, that ſo they being brought out of repute, he may himſelf have a greater Trade?</p>
+            <p>The rather for that if he make not good Ware, he cannot ſell, then muſt the Silk-man never be paid; and what follows, but his Trade is thereby deſtroyed?</p>
+            <p>But they do not propoſe that the Seals ſhall not be affixed to any Pieces of Stuffs or Silks that do not hold out the true length and breadth, or that is otherwiſe deceitfully made; No, be they as falſe made, as ſlight, as ſhort, as narrow as they will, bring them but to Weavers-Hall and pay for a Seal, and then a Stamp ſhall be put upon them equall to the beſt.</p>
+            <p>And it is to be feared, that in a ſhort time the Weavers Seals and Marks, if ſet up, will be ſold by the like meaſures, and at as eaſie rates as the Aulnagers Seals are, which at this day give a greater diſturbance unto Countrey people, and diſcouragement to the Woollen Manufacture, then any thing that is on foot in <hi>England.</hi>
+            </p>
+            <p>It is to be obſerved, That leaſt the Weavers deſigns ſhould be diſcovered, and their intended Monopoly prevented, they have ſubtilly taken off the Merchants Objections by providing that all Foreign Stuffs and Silks ſhall be Sealed at the Kings charge; but the home-made Silk, made by poor men that can hardly earn bread for their Families, the ſealing of theſe muſt be paid out of their labours which deſign they had on foot in 1640. and having then got a Patent, demanded ſix-pence a Piece for Seals; but that ſoon came to nothing.</p>
+            <p>It is humbly offered, that the inconveniency, charge and loſs of time in coming to the Hall with every Piece to be Sealed, will be great, and tend to the poor Weavers utter Ruine.</p>
+            <p>For if this be granted, then let their Cuſtomer (as frequently now they are forced to do) come to them for a Remnant of Stuff or Silk before the Piece be fully wrought off, to match with any old Silk or Stuffs, or to Sell a pattern for a Suit or Gown, he muſt not ſell this before he goes to the Hall, and waits (no man knows how long) there for a Seal; by means whereof he is hindred in his work, and before he can return, the Mercer or his Cuſtomer is gone to ſome other Shop; by which both Weaver and Mercer are greatly prejudiced, beſides the prejudice that a man ſhall ſuſtain in diſcovering his inventions and patterns too early.</p>
+            <p n="4">IIII. As to the pains and penalties upon Counterfeiters of Seals and Stamps, and Sealing of Foreign Commodities as Home-made, if the Seal be not eſtabliſhed, the penalties fall; if the Seals be eſtabliſhed, the Law ought to be obeyed. But it is prayed, that conſideration may be taken of the ſeverity of the penalty impoſed.</p>
+            <p n="5">V. As to the deſire that all Merchants in <hi>London,</hi> or within  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  Miles thereof, having any Silks or Stuffs by them, ſhould before  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  day of  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  bring in each Piece containing ten Yards, or <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bove, to the Cuſtom-houſe, or to Weaver-Hall t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be Sealed, without paying any thing for Sealing.</p>
+            <p>Th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is the moſt miſchievous and unreaſonable thing that can be imagined, very ha<g ref="char:EOLhyphen"/>zardous and chargeable, and the greateſt inconvenincy that can be invented to fall upon Tradeſmen.</p>
+            <p>For every man pays with a witneſs for Sealing, who ſhall be forced to ſend
+<pb n="3" facs="tcp:37783:2"/>his goods out of his Shop to Weavers-Hall, or the Cuſtom-houſe, and pay for carrying of them and bringing them back, and for Servants attending there till they can be Sealed: beſides the hazard and (which will be almoſt impoſſible to prevent) the loſs of many Odd Remnants, and disfurniſhing his Shop, loſing his Trade for the time the goods are out of his poſſeſſion, and perhap's his Cuſtomers, for not having goods at home to furniſh them with when they have occaſion; beſides the damage that will come to their Wares by tumbling, dirtying, ſullying, and otherwiſe as aforeſaid, it may prove greatly prejudi<g ref="char:EOLhyphen"/>cial to the Creditors of ſuch Tradeſman who may of late have had great loſſes, and are ready to fail; for how glad would ſuch be of having an opportunity, under colour of carrying their Wares to be Sealed, to carry them and themſelves where they ſhall be out of their Creditors reach?</p>
+            <p n="6">VI. The next thing deſired, which relates to <hi>Canterbury, Norwich, Exeter, Mancheſter,</hi> &amp;c. their ſealing their Wares, and Workmen that live far diſtant in the Countries to bring their Wares to the next Corporation to be ſealed.</p>
+            <p>How unreaſonable and impracticable this will be, is left to Conſideration. And further, it is humbly offered, that it is utterly to deſtroy the poor Weaver who lives remote from a Corporation; for now the Merchant or his Factor come to their houſes, take their Silks or Stuffs from them as they make them, and bring their money home to their doors; but for the future, either the Weaver muſt be without money till he hath made a good number of pieces, or elſe ride to a Corporation-Town with each piece he makes, there to be ſealed; which may coſt him a days journey forward, and another backward, the Conſequence is his ruine by the loſs of time from Work, the expence and charges of horſe and man, and the danger of lighting into Company, (which ſuch poor men are too much addicted unto,) and ſpending his money before he come home, to the impoveriſhing of his Family, which by ſuch means may at laſt come to be maintained by the Pariſh.</p>
+            <p n="7">VII. As to the prohibition deſired from the uſe of the broad great Tape-loom, on pre<g ref="char:EOLhyphen"/>tence it hinders many people from Working which uſed to be employed in ſingle Loom, and make the Work the ſlighter, to the abuſing and defrauding of the Buyer.</p>
+            <p>It is humbly conceived, the Parliament of <hi>England</hi> will never paſs an Act to diſcourage Ingenuity, hinder Invention, or to prohibit a man from making uſe of ſuch Inven<g ref="char:EOLhyphen"/>tion when found out, to confine one man that he ſhall do no more Work than another, or that if a man can make 16 pieces of Tape or Ribbon together, he ſhall make but one, whereby a young man that hath no charge ſhall earn as much as he that hath a Wife and 12 Children to maintain: This ſeems unreaſonable, the rather for that by this Invention the Commodity may be made as good and yet much cheaper, and enable <hi>England</hi> to furniſh foreign parts cheaper than they can make them. And with theſe Looms all Yarn from the <hi>Indies</hi> is wrought off here, which otherwiſe muſt be ſent into <hi>Holland</hi> to be manufactured, from whence it would be returned at cheaper Rates then without theſe Engines the ſame can be manufa<g ref="char:EOLhyphen"/>ctured in <hi>England.</hi> Theſe Looms have been uſed above 60 years, many Families bred up to the uſe of them, that can uſe no other.</p>
+            <p>If now put down, they and their Families are ruined, and great quantities of the Yarn imported muſt be exported, to the great damage of the King in his Cuſtoms. And which is worſe, the Engliſh cannot tranſport the Manufactures thereof, by reaſon they will be underſold by Foreigners.</p>
+            <p>When Printing was invented, did it not put an end too, or take much from Writers em<g ref="char:EOLhyphen"/>ployments; was Printing therefore prohibited?</p>
+            <p>Doth not the Weaving of Silk-ſtockings take off from Knitting? is it therefore <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> down?</p>
+            <p n="8">VIII. As to what is deſired, that a power may be put into any perſons hand ſuſpe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing any French Lace or Ribbon in any Houſe, Shop or Warehouſe, that trades in theſe Com<g ref="char:EOLhyphen"/>modities by a Warrant from a Juſtice with a Conſtable in the day-time, to come into ſ<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>h Houſe, Shop or Warehouſe, ſeiſe and take away ſuch Goods, deliver them to the Cuſtom<g ref="char:EOLhyphen"/>houſe, there to be detained till the Owner proves them made in <hi>England;</hi> which if he do, he ſhall have double Coſts; if he do not, the Goods to be forfeited.</p>
+            <pb n="4" facs="tcp:37783:3" rendition="simple:additions"/>
+            <p>If this ſhould be granted, it would put a power into every Weaver or other perſon that hath any prejudice to a Shop-keeper, Mercer, Milliner or Haberdaſher, to ruine him at pleaſure, come into his Houſe upon ſuſpicion onely, and without pro<g ref="char:EOLhyphen"/>ving any thing againſt them, ſeiſe his Goods, carry them out of his Shop, lodge them where it may not be in his power in four or five months to have them back, becauſe the Term may not come ſooner; nay, perhaps incapacitate him from ever having them, or being in a condition to proſecute his right, by diſ-furniſhing his Shop, and thereby occaſioning the loſs of his Trade and of his Cuſtomers for want of them; and when: he doth recover them, they may be out of faſhion, and ſo lie dead on his hand. And it may go further, namely to ruine him in his Credit and Re<g ref="char:EOLhyphen"/>putation, and be the occaſion that many a man that lives by his Credit, his ha<g ref="char:EOLhyphen"/>ving all his Creditors fall upon him, to his and his Families utter ruine.</p>
+            <p>It will be very hard to put this power into the hands of every Weaver or Handicrafts Tradeſman in <hi>London,</hi> and for their encouragement to give them two third parts of the Pe<g ref="char:EOLhyphen"/>nalties and Forfeitures, and the King onely one, howbeit it may have formerly been judged meet to be given to the Farmers and Commiſſioners of His Majeſties Cuſtoms, perſons of Credit and Reputation, that cannot be imagined will do any ill thing out of prejudice to any particular perſon.</p>
+            <p>And further this ſeems the harder, becauſe 'tis put upon the Owner to prove the Goods to be home-made; ſo that now every Shop-keeper whenever he buys a piece of Tape or Ribbon, muſt put the Seller to prove and give Security that it is not foreign-made; and if he ſhould do ſo, that will not ſerve the turn, unleſs he prove it ſo when it is ſeized. Suppoſe the Seller and the Buyer dead, and the Commodities come to an Executor, how can they prove it? Milliners and Haberdaſhers buy their Wares at their doors of the Weavers and Lace-men. Suppoſe a Merchant employ Engliſh Weavers to ſell French Goods, the Weaver affirms them to be Engliſh Goods, the Shop-keeper buys them, they are afterwards ſeized, the Shop-keeper proving them to be bought of an Eng<g ref="char:EOLhyphen"/>liſh Weaver, will not make them Engliſh Goods; the Weaver may be dead, or if alive, he may upon his Oath ſwear they are French; the Buyer knew not of it, for that he told <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> (<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>king this to be the truth of the Caſe) muſt the Owner of thoſe Goods forfeit them. This ſeems unreaſonable, and will tend to the deſtruction of Trade, to the great diſquiet of Tradeſmen, and there can no way be found out how a Shop-keeper ſhall deal ſafely with any Weaver or Lace-man for any of thoſe Commodities, if the Act deſired ſhall be paſſed.</p>
+            <p>The pretence in the preamble of the Bills is, that Weaving is of great uſe to the Kingdom, and ſo in truth it is. And that by frequent importation of foreign-wrought Silks and Stuffs, (moſt of which are conveyed in without paying of duty;) Engliſh Artiſts are impoveriſhed, and the King of his duty defrauded. This is a great miſtake, for neither ſo many pieces of Silk, or ſo good, or of ſuch ſorts as are worn here, can be made in <hi>England.</hi> And that the King is not defrauded, will evidently appear by the Cuſtoms-books of <hi>London Dover</hi> and the Out-Ports. If there be any diſcouragement to the Weavers, they are the occaſions of it themſelves, in that notwithſtanding they neither can make ſo good Silks or Stuffs, or ſuch ſorts as are made beyond the Seas, yet they will live higher and have double the Wages, and after all die poor, whilſt Foreigners by living upon hard Fare with half the Wages grows rich; and this is the onely reaſon that wrought Silk from beyond Seas are afforded cheaper then home-made; So that upon ill theſe Accompts, it is humbly hoped the Bill will not paſs.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
